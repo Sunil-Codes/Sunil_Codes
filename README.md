@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @only13sunil
+- 👋 Hi, I’m @onlysunil
 - 👀 I’m interested in ... JavaScript
 - 🌱 I’m currently learning ...Javascript
 - 💞️ I’m looking to collaborate on ...
