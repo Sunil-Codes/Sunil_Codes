@@ -4,9 +4,14 @@
 - 💞️ I’m looking to collaborate on ... Javascript
 - 📫 How to reach me ... Email- sk36865@gmail.com insta:Only.13sunil Snap : sunil-jii
 
-<html>
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
 <style>
-  body{
+    body{
   background-color:#E5F9DB;
 
 }
@@ -53,24 +58,25 @@ font-size:0.9rem;
 }
 
 </style>
+</head>
+<body>
+    <div class="Container">
 
-
-
-<div class="Container">
-
-  <div class="heading">
-  <h1>Hello,</h1>
-  <h1>My Name is Sunil </h1>
-    </div>
-  
-
-  <div class="des">
-  <p>Being a MIS and aspiring developer, I have developed numerous projects using Google Sheets and app script that are assisting organisations in operating efficiently.</p>
-    
-    <a href="https://linktr.ee/sunil_codes" target=_blank> <button type="button" class="btn">Let's connect</button></a>
-  </div>
-  </html>
- 
+        <div class="heading">
+        <h1>Hello,</h1>
+        <h1>My Name is Sunil </h1>
+          </div>
+        
+      
+        <div class="des">
+        <p>Being a MIS and aspiring developer, I have developed numerous projects using Google Sheets and app script that are assisting organisations in operating efficiently.</p>
+          
+          <a href="https://linktr.ee/sunil_codes" target=_blank> <button type="button" class="btn">Let's connect</button></a>
+        </div>
+        
+       
+</body>
+</html>
 <!---
 only13sunil/only13sunil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
