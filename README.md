@@ -4,13 +4,11 @@
 - 💞️ I’m looking to collaborate on ... Javascript
 - 📫 How to reach me ... Email- sk36865@gmail.com insta:Only.13sunil Snap : sunil-jii
 
- <!DOCTYPE html>
+
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-<style>
+
+    
+    <style>
     body{
   background-color:#E5F9DB;
 
@@ -58,7 +56,7 @@ font-size:0.9rem;
 }
 
 </style>
-</head>
+
 <body>
     <div class="Container">
 
